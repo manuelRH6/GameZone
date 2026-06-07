@@ -1,0 +1,22 @@
+[
+  {
+    "sizeGB": 2,
+    "price": 50,
+    "genre": "Videojuego de disparos, Videojuego de acci¢n y aventura, Videojuego no lineal",
+    "type": "digital",
+    "title": "Grand Theft Auto: San Andreas",
+    "stock": 10,
+    "platform": "PlayStation 2",
+    "downloadPlatform": "Steam"
+  },
+  {
+    "condition": "Usado",
+    "price": 60,
+    "genre": "Peleas",
+    "type": "physical",
+    "title": "Mortal Kombat XL",
+    "stock": 150,
+    "distributor": "Gamestop",
+    "platform": "PlayStation 4, Xbox one y PC"
+  }
+]

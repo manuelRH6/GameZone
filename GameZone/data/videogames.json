@@ -1,0 +1,22 @@
+[
+  {
+    "sizeGB": 12,
+    "price": 20000,
+    "genre": "terror",
+    "type": "digital",
+    "title": "resident evil 4",
+    "stock": 20,
+    "platform": "pc",
+    "downloadPlatform": "Steam"
+  },
+  {
+    "sizeGB": 23,
+    "price": 300,
+    "genre": "terror",
+    "type": "digital",
+    "title": "requiem",
+    "stock": 12,
+    "platform": "ps5",
+    "downloadPlatform": "stationstore"
+  }
+]

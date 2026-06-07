@@ -1,0 +1,56 @@
+.root {
+    -fx-font-family: "Segoe UI", "Arial", sans-serif;
+}
+
+.table-view {
+    -fx-background-color: #1a1a2e;
+    -fx-border-color: #2a2a4e;
+    -fx-border-radius: 8;
+    -fx-background-radius: 8;
+}
+
+.table-view .column-header {
+    -fx-background-color: #16213e;
+    -fx-text-fill: #e94560;
+    -fx-font-weight: bold;
+}
+
+.table-view .column-header-background {
+    -fx-background-color: #16213e;
+}
+
+.table-view .column-header .label {
+    -fx-text-fill: #e94560;
+    -fx-font-weight: bold;
+    -fx-font-size: 12px;
+}
+
+.table-row-cell {
+    -fx-background-color: #1a1a2e;
+    -fx-text-fill: #ccccdd;
+    -fx-border-color: transparent transparent #222244 transparent;
+}
+
+.table-row-cell:odd {
+    -fx-background-color: #161628;
+}
+
+.table-row-cell:selected {
+    -fx-background-color: #e94560;
+    -fx-text-fill: white;
+}
+
+.table-cell {
+    -fx-text-fill: #ccccdd;
+    -fx-alignment: center-left;
+    -fx-padding: 6 10;
+}
+
+.scroll-bar:vertical .track {
+    -fx-background-color: #16213e;
+}
+
+.scroll-bar:vertical .thumb {
+    -fx-background-color: #e94560;
+    -fx-background-radius: 4;
+}
